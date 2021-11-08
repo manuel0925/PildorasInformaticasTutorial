@@ -1,0 +1,16 @@
+/var/www/html/PildorasInformaticasTutorial/constructores/bin/Debug/net5.0/constructores
+/var/www/html/PildorasInformaticasTutorial/constructores/bin/Debug/net5.0/constructores.deps.json
+/var/www/html/PildorasInformaticasTutorial/constructores/bin/Debug/net5.0/constructores.runtimeconfig.json
+/var/www/html/PildorasInformaticasTutorial/constructores/bin/Debug/net5.0/constructores.runtimeconfig.dev.json
+/var/www/html/PildorasInformaticasTutorial/constructores/bin/Debug/net5.0/constructores.dll
+/var/www/html/PildorasInformaticasTutorial/constructores/bin/Debug/net5.0/ref/constructores.dll
+/var/www/html/PildorasInformaticasTutorial/constructores/bin/Debug/net5.0/constructores.pdb
+/var/www/html/PildorasInformaticasTutorial/constructores/obj/Debug/net5.0/constructores.csproj.AssemblyReference.cache
+/var/www/html/PildorasInformaticasTutorial/constructores/obj/Debug/net5.0/constructores.GeneratedMSBuildEditorConfig.editorconfig
+/var/www/html/PildorasInformaticasTutorial/constructores/obj/Debug/net5.0/constructores.AssemblyInfoInputs.cache
+/var/www/html/PildorasInformaticasTutorial/constructores/obj/Debug/net5.0/constructores.AssemblyInfo.cs
+/var/www/html/PildorasInformaticasTutorial/constructores/obj/Debug/net5.0/constructores.csproj.CoreCompileInputs.cache
+/var/www/html/PildorasInformaticasTutorial/constructores/obj/Debug/net5.0/constructores.dll
+/var/www/html/PildorasInformaticasTutorial/constructores/obj/Debug/net5.0/ref/constructores.dll
+/var/www/html/PildorasInformaticasTutorial/constructores/obj/Debug/net5.0/constructores.pdb
+/var/www/html/PildorasInformaticasTutorial/constructores/obj/Debug/net5.0/constructores.genruntimeconfig.cache

@@ -10,11 +10,11 @@
         "projectUniqueName": "/var/www/html/PildorasInformaticasTutorial/constructores/constructores.csproj",
         "projectName": "constructores",
         "projectPath": "/var/www/html/PildorasInformaticasTutorial/constructores/constructores.csproj",
-        "packagesPath": "/home/emmanuel/.nuget/packages/",
+        "packagesPath": "/root/.nuget/packages/",
         "outputPath": "/var/www/html/PildorasInformaticasTutorial/constructores/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/emmanuel/.nuget/NuGet/NuGet.Config"
+          "/root/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

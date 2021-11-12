@@ -1,0 +1,16 @@
+/var/www/html/PildorasInformaticasTutorial/conceptosPOO/bin/Debug/net5.0/conceptosPOO
+/var/www/html/PildorasInformaticasTutorial/conceptosPOO/bin/Debug/net5.0/conceptosPOO.deps.json
+/var/www/html/PildorasInformaticasTutorial/conceptosPOO/bin/Debug/net5.0/conceptosPOO.runtimeconfig.json
+/var/www/html/PildorasInformaticasTutorial/conceptosPOO/bin/Debug/net5.0/conceptosPOO.runtimeconfig.dev.json
+/var/www/html/PildorasInformaticasTutorial/conceptosPOO/bin/Debug/net5.0/conceptosPOO.dll
+/var/www/html/PildorasInformaticasTutorial/conceptosPOO/bin/Debug/net5.0/ref/conceptosPOO.dll
+/var/www/html/PildorasInformaticasTutorial/conceptosPOO/bin/Debug/net5.0/conceptosPOO.pdb
+/var/www/html/PildorasInformaticasTutorial/conceptosPOO/obj/Debug/net5.0/conceptosPOO.csproj.AssemblyReference.cache
+/var/www/html/PildorasInformaticasTutorial/conceptosPOO/obj/Debug/net5.0/conceptosPOO.GeneratedMSBuildEditorConfig.editorconfig
+/var/www/html/PildorasInformaticasTutorial/conceptosPOO/obj/Debug/net5.0/conceptosPOO.AssemblyInfoInputs.cache
+/var/www/html/PildorasInformaticasTutorial/conceptosPOO/obj/Debug/net5.0/conceptosPOO.AssemblyInfo.cs
+/var/www/html/PildorasInformaticasTutorial/conceptosPOO/obj/Debug/net5.0/conceptosPOO.csproj.CoreCompileInputs.cache
+/var/www/html/PildorasInformaticasTutorial/conceptosPOO/obj/Debug/net5.0/conceptosPOO.dll
+/var/www/html/PildorasInformaticasTutorial/conceptosPOO/obj/Debug/net5.0/ref/conceptosPOO.dll
+/var/www/html/PildorasInformaticasTutorial/conceptosPOO/obj/Debug/net5.0/conceptosPOO.pdb
+/var/www/html/PildorasInformaticasTutorial/conceptosPOO/obj/Debug/net5.0/conceptosPOO.genruntimeconfig.cache

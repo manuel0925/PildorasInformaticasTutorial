@@ -1,0 +1,16 @@
+C:\Users\emmanuel.guzman\Documents\workspace\PildorasInformaticasTutorial\UsoArrays\bin\Debug\net5.0\UsoArrays.exe
+C:\Users\emmanuel.guzman\Documents\workspace\PildorasInformaticasTutorial\UsoArrays\bin\Debug\net5.0\UsoArrays.deps.json
+C:\Users\emmanuel.guzman\Documents\workspace\PildorasInformaticasTutorial\UsoArrays\bin\Debug\net5.0\UsoArrays.runtimeconfig.json
+C:\Users\emmanuel.guzman\Documents\workspace\PildorasInformaticasTutorial\UsoArrays\bin\Debug\net5.0\UsoArrays.runtimeconfig.dev.json
+C:\Users\emmanuel.guzman\Documents\workspace\PildorasInformaticasTutorial\UsoArrays\bin\Debug\net5.0\UsoArrays.dll
+C:\Users\emmanuel.guzman\Documents\workspace\PildorasInformaticasTutorial\UsoArrays\bin\Debug\net5.0\ref\UsoArrays.dll
+C:\Users\emmanuel.guzman\Documents\workspace\PildorasInformaticasTutorial\UsoArrays\bin\Debug\net5.0\UsoArrays.pdb
+C:\Users\emmanuel.guzman\Documents\workspace\PildorasInformaticasTutorial\UsoArrays\obj\Debug\net5.0\UsoArrays.csproj.AssemblyReference.cache
+C:\Users\emmanuel.guzman\Documents\workspace\PildorasInformaticasTutorial\UsoArrays\obj\Debug\net5.0\UsoArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmanuel.guzman\Documents\workspace\PildorasInformaticasTutorial\UsoArrays\obj\Debug\net5.0\UsoArrays.AssemblyInfoInputs.cache
+C:\Users\emmanuel.guzman\Documents\workspace\PildorasInformaticasTutorial\UsoArrays\obj\Debug\net5.0\UsoArrays.AssemblyInfo.cs
+C:\Users\emmanuel.guzman\Documents\workspace\PildorasInformaticasTutorial\UsoArrays\obj\Debug\net5.0\UsoArrays.csproj.CoreCompileInputs.cache
+C:\Users\emmanuel.guzman\Documents\workspace\PildorasInformaticasTutorial\UsoArrays\obj\Debug\net5.0\UsoArrays.dll
+C:\Users\emmanuel.guzman\Documents\workspace\PildorasInformaticasTutorial\UsoArrays\obj\Debug\net5.0\ref\UsoArrays.dll
+C:\Users\emmanuel.guzman\Documents\workspace\PildorasInformaticasTutorial\UsoArrays\obj\Debug\net5.0\UsoArrays.pdb
+C:\Users\emmanuel.guzman\Documents\workspace\PildorasInformaticasTutorial\UsoArrays\obj\Debug\net5.0\UsoArrays.genruntimeconfig.cache

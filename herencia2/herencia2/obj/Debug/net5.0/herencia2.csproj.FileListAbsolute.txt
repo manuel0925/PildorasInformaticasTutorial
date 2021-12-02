@@ -1,0 +1,16 @@
+C:\Users\emmanuel.guzman\source\repos\herencia2\herencia2\bin\Debug\net5.0\herencia2.exe
+C:\Users\emmanuel.guzman\source\repos\herencia2\herencia2\bin\Debug\net5.0\herencia2.deps.json
+C:\Users\emmanuel.guzman\source\repos\herencia2\herencia2\bin\Debug\net5.0\herencia2.runtimeconfig.json
+C:\Users\emmanuel.guzman\source\repos\herencia2\herencia2\bin\Debug\net5.0\herencia2.runtimeconfig.dev.json
+C:\Users\emmanuel.guzman\source\repos\herencia2\herencia2\bin\Debug\net5.0\herencia2.dll
+C:\Users\emmanuel.guzman\source\repos\herencia2\herencia2\bin\Debug\net5.0\ref\herencia2.dll
+C:\Users\emmanuel.guzman\source\repos\herencia2\herencia2\bin\Debug\net5.0\herencia2.pdb
+C:\Users\emmanuel.guzman\source\repos\herencia2\herencia2\obj\Debug\net5.0\herencia2.csproj.AssemblyReference.cache
+C:\Users\emmanuel.guzman\source\repos\herencia2\herencia2\obj\Debug\net5.0\herencia2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmanuel.guzman\source\repos\herencia2\herencia2\obj\Debug\net5.0\herencia2.AssemblyInfoInputs.cache
+C:\Users\emmanuel.guzman\source\repos\herencia2\herencia2\obj\Debug\net5.0\herencia2.AssemblyInfo.cs
+C:\Users\emmanuel.guzman\source\repos\herencia2\herencia2\obj\Debug\net5.0\herencia2.csproj.CoreCompileInputs.cache
+C:\Users\emmanuel.guzman\source\repos\herencia2\herencia2\obj\Debug\net5.0\herencia2.dll
+C:\Users\emmanuel.guzman\source\repos\herencia2\herencia2\obj\Debug\net5.0\ref\herencia2.dll
+C:\Users\emmanuel.guzman\source\repos\herencia2\herencia2\obj\Debug\net5.0\herencia2.pdb
+C:\Users\emmanuel.guzman\source\repos\herencia2\herencia2\obj\Debug\net5.0\herencia2.genruntimeconfig.cache

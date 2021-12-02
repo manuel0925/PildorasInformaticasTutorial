@@ -8,21 +8,17 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\emmanuel.guzman\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\emmanuel.guzman\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emmanuel.guzman\\Documents\\workspace\\PildorasInformaticasTutorial\\UsoArrays\\UsoArrays.csproj",
+      "projectUniqueName": "c:\\xampp\\htdocs\\c_sharpProyets\\PildorasInformaticasTutorial\\UsoArrays\\UsoArrays.csproj",
       "projectName": "UsoArrays",
-      "projectPath": "C:\\Users\\emmanuel.guzman\\Documents\\workspace\\PildorasInformaticasTutorial\\UsoArrays\\UsoArrays.csproj",
+      "projectPath": "c:\\xampp\\htdocs\\c_sharpProyets\\PildorasInformaticasTutorial\\UsoArrays\\UsoArrays.csproj",
       "packagesPath": "C:\\Users\\emmanuel.guzman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emmanuel.guzman\\Documents\\workspace\\PildorasInformaticasTutorial\\UsoArrays\\obj\\",
+      "outputPath": "c:\\xampp\\htdocs\\c_sharpProyets\\PildorasInformaticasTutorial\\UsoArrays\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\emmanuel.guzman\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -64,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

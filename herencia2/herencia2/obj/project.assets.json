@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emmanuel.guzman\\source\\repos\\herencia2\\herencia2\\herencia2.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\c_sharpProyets\\PildorasInformaticasTutorial\\herencia2\\herencia2\\herencia2.csproj",
       "projectName": "herencia2",
-      "projectPath": "C:\\Users\\emmanuel.guzman\\source\\repos\\herencia2\\herencia2\\herencia2.csproj",
+      "projectPath": "C:\\xampp\\htdocs\\c_sharpProyets\\PildorasInformaticasTutorial\\herencia2\\herencia2\\herencia2.csproj",
       "packagesPath": "C:\\Users\\emmanuel.guzman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emmanuel.guzman\\source\\repos\\herencia2\\herencia2\\obj\\",
+      "outputPath": "C:\\xampp\\htdocs\\c_sharpProyets\\PildorasInformaticasTutorial\\herencia2\\herencia2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\emmanuel.guzman\\AppData\\Roaming\\NuGet\\NuGet.Config",

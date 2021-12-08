@@ -10,8 +10,19 @@ namespace herencia2
             Humanos Manuel = new Humanos("eliza");
             Gorilla Copito = new Gorilla("copito");
 
+            Mamiferos[] almacenAnimales = new Mamiferos[3];
 
-            Manuel.getNombre();
+            almacenAnimales[0] = Babieca;
+            almacenAnimales[1] = Manuel;
+            almacenAnimales[2] = Copito;
+
+            for(int i = 0; i < 3; i++)
+            {
+                almacenAnimales[i].pensar();
+            }
+           // Manuel.getNombre();
+
+
 
 
         }
@@ -39,6 +50,11 @@ namespace herencia2
             Console.WriteLine(nombreServivo);
         }
 
+        public virtual void pensar()
+        {
+            Console.WriteLine("pensamineot basico instintivo");
+        }
+
     }
 
     class Caballo : Mamiferos
@@ -51,6 +67,7 @@ namespace herencia2
         {
             Console.WriteLine("soy capaz de galopar");
         }
+       
     }
 
     class Humanos : Mamiferos
@@ -59,7 +76,8 @@ namespace herencia2
         {
 
         }
-        public void pensar()
+        
+         public override void pensar()
         {
             Console.WriteLine("soy capaz de pensar");
         }
@@ -74,6 +92,11 @@ namespace herencia2
         public void trepar()
         {
             Console.WriteLine("soy capaz de trepar");
+        }
+
+        public override void pensar()
+        {
+            Console.WriteLine("pensamiento instintivo avanzado de gorilla");
         }
     }
 

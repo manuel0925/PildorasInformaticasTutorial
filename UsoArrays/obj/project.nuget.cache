@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "iALh0yQmbqjlInA88KhS9+mqIQBytNkMu77/MS1dW9rnsiZRqhaWEHPG7+EoTPBJwKrDSWTb57tLcoAjQihgEQ==",
   "success": true,
   "projectFilePath": "/var/www/html/PildorasInformaticasTutorial/UsoArrays/UsoArrays.csproj",
+=======
+  "dgSpecHash": "1K31fz2ZES/qb0epUBdZwkF3EiikUV5gjU/brlwS83OfiFEZyem88wlIfdDvSNAMxp5Me27BFu8HcHfSkjnA0w==",
+  "success": true,
+  "projectFilePath": "c:\\xampp\\htdocs\\c_sharpProyets\\PildorasInformaticasTutorial\\UsoArrays\\UsoArrays.csproj",
+>>>>>>> 939fee1c1c08cd6b47ce252a3f2361aff42e4fdd
   "expectedPackageFiles": [],
   "logs": []
 }

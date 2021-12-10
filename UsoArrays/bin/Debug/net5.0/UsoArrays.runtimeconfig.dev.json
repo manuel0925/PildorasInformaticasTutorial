@@ -1,8 +1,13 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
+<<<<<<< HEAD
       "/root/.dotnet/store/|arch|/|tfm|",
       "/root/.nuget/packages"
+=======
+      "C:\\Users\\emmanuel.guzman\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\emmanuel.guzman\\.nuget\\packages"
+>>>>>>> 939fee1c1c08cd6b47ce252a3f2361aff42e4fdd
     ]
   }
 }

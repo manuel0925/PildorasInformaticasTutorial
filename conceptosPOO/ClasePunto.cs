@@ -11,6 +11,8 @@ namespace conceptosPOO
             this.x = x;
             this.y = y;
 
+            contadorDeObjetos++; 
+
         }
 
         public ClasePunto()
@@ -19,6 +21,8 @@ namespace conceptosPOO
 
             this.x = 0;
             this.y = 0;
+            
+            contadorDeObjetos++; 
 
         }
 
@@ -32,7 +36,18 @@ namespace conceptosPOO
             return DitanciaPuntos;
         }
 
+        /*public static int ContadorDeObjetos(){
+            return contadorDeObjetos;
+        }*/
+
+        public static int ContadorDeObjetos()=> contadorDeObjetos;
+        
+
         private int x,y;
+        private static int contadorDeObjetos = 0;
+
+        public const double constanteDeprueba = 3.14;
+
 
     }
 }

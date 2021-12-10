@@ -1,0 +1,16 @@
+/var/www/html/PildorasInformaticasTutorial/UsoArrays/bin/Debug/net5.0/UsoArrays
+/var/www/html/PildorasInformaticasTutorial/UsoArrays/bin/Debug/net5.0/UsoArrays.deps.json
+/var/www/html/PildorasInformaticasTutorial/UsoArrays/bin/Debug/net5.0/UsoArrays.runtimeconfig.json
+/var/www/html/PildorasInformaticasTutorial/UsoArrays/bin/Debug/net5.0/UsoArrays.runtimeconfig.dev.json
+/var/www/html/PildorasInformaticasTutorial/UsoArrays/bin/Debug/net5.0/UsoArrays.dll
+/var/www/html/PildorasInformaticasTutorial/UsoArrays/bin/Debug/net5.0/ref/UsoArrays.dll
+/var/www/html/PildorasInformaticasTutorial/UsoArrays/bin/Debug/net5.0/UsoArrays.pdb
+/var/www/html/PildorasInformaticasTutorial/UsoArrays/obj/Debug/net5.0/UsoArrays.csproj.AssemblyReference.cache
+/var/www/html/PildorasInformaticasTutorial/UsoArrays/obj/Debug/net5.0/UsoArrays.GeneratedMSBuildEditorConfig.editorconfig
+/var/www/html/PildorasInformaticasTutorial/UsoArrays/obj/Debug/net5.0/UsoArrays.AssemblyInfoInputs.cache
+/var/www/html/PildorasInformaticasTutorial/UsoArrays/obj/Debug/net5.0/UsoArrays.AssemblyInfo.cs
+/var/www/html/PildorasInformaticasTutorial/UsoArrays/obj/Debug/net5.0/UsoArrays.csproj.CoreCompileInputs.cache
+/var/www/html/PildorasInformaticasTutorial/UsoArrays/obj/Debug/net5.0/UsoArrays.dll
+/var/www/html/PildorasInformaticasTutorial/UsoArrays/obj/Debug/net5.0/ref/UsoArrays.dll
+/var/www/html/PildorasInformaticasTutorial/UsoArrays/obj/Debug/net5.0/UsoArrays.pdb
+/var/www/html/PildorasInformaticasTutorial/UsoArrays/obj/Debug/net5.0/UsoArrays.genruntimeconfig.cache

@@ -20,7 +20,7 @@ namespace conceptosPOO
             */
 
             var miVariableX = new {NOmbre="emmanuel", edad=28};
-            WriteLine($"mi nombre es {Nombre} y mi edad")
+            //WriteLine($"mi nombre es {Nombre} y mi edad")
         }
 
         static void RealizarTarea()

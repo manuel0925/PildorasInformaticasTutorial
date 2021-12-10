@@ -1,7 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
     "/var/www/html/PildorasInformaticasTutorial/UsoArrays/UsoArrays.csproj": {}
   },
   "projects": {
@@ -16,32 +15,11 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/emmanuel/.nuget/NuGet/NuGet.Config"
-=======
-    "c:\\xampp\\htdocs\\c_sharpProyets\\PildorasInformaticasTutorial\\UsoArrays\\UsoArrays.csproj": {}
-  },
-  "projects": {
-    "c:\\xampp\\htdocs\\c_sharpProyets\\PildorasInformaticasTutorial\\UsoArrays\\UsoArrays.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "c:\\xampp\\htdocs\\c_sharpProyets\\PildorasInformaticasTutorial\\UsoArrays\\UsoArrays.csproj",
-        "projectName": "UsoArrays",
-        "projectPath": "c:\\xampp\\htdocs\\c_sharpProyets\\PildorasInformaticasTutorial\\UsoArrays\\UsoArrays.csproj",
-        "packagesPath": "C:\\Users\\emmanuel.guzman\\.nuget\\packages\\",
-        "outputPath": "c:\\xampp\\htdocs\\c_sharpProyets\\PildorasInformaticasTutorial\\UsoArrays\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\emmanuel.guzman\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
->>>>>>> 939fee1c1c08cd6b47ce252a3f2361aff42e4fdd
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-<<<<<<< HEAD
-=======
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
->>>>>>> 939fee1c1c08cd6b47ce252a3f2361aff42e4fdd
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -74,11 +52,7 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
-=======
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
->>>>>>> 939fee1c1c08cd6b47ce252a3f2361aff42e4fdd
         }
       }
     }

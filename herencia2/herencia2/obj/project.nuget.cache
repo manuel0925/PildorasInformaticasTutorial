@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pWRS+dz1XUeXc9hCrvv3C6Kc8wNu0Mbq25L3A3BImK2J8Pz4SGtzpn720FzE3gdeSLIZeAF7Dfpg0Mxboy2R4Q==",
+  "dgSpecHash": "MftDADHVFQcVTrfskHACCfg0kV1Vr9kMq7kUu8KNbhFa0n9zaLB5xcOMzRSPji9uK31+mU2O+aEPD1wkhYdlRA==",
   "success": true,
-  "projectFilePath": "C:\\xampp\\htdocs\\c_sharpProyets\\PildorasInformaticasTutorial\\herencia2\\herencia2\\herencia2.csproj",
+  "projectFilePath": "/var/www/html/PildorasInformaticasTutorial/herencia2/herencia2/herencia2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,16 @@
+/var/www/html/PildorasInformaticasTutorial/ejercicioGuiado/obj/Debug/net5.0/ejercicioGuiado.csproj.AssemblyReference.cache
+/var/www/html/PildorasInformaticasTutorial/ejercicioGuiado/obj/Debug/net5.0/ejercicioGuiado.GeneratedMSBuildEditorConfig.editorconfig
+/var/www/html/PildorasInformaticasTutorial/ejercicioGuiado/obj/Debug/net5.0/ejercicioGuiado.AssemblyInfoInputs.cache
+/var/www/html/PildorasInformaticasTutorial/ejercicioGuiado/obj/Debug/net5.0/ejercicioGuiado.AssemblyInfo.cs
+/var/www/html/PildorasInformaticasTutorial/ejercicioGuiado/obj/Debug/net5.0/ejercicioGuiado.csproj.CoreCompileInputs.cache
+/var/www/html/PildorasInformaticasTutorial/ejercicioGuiado/bin/Debug/net5.0/ejercicioGuiado
+/var/www/html/PildorasInformaticasTutorial/ejercicioGuiado/bin/Debug/net5.0/ejercicioGuiado.deps.json
+/var/www/html/PildorasInformaticasTutorial/ejercicioGuiado/bin/Debug/net5.0/ejercicioGuiado.runtimeconfig.json
+/var/www/html/PildorasInformaticasTutorial/ejercicioGuiado/bin/Debug/net5.0/ejercicioGuiado.runtimeconfig.dev.json
+/var/www/html/PildorasInformaticasTutorial/ejercicioGuiado/bin/Debug/net5.0/ejercicioGuiado.dll
+/var/www/html/PildorasInformaticasTutorial/ejercicioGuiado/bin/Debug/net5.0/ref/ejercicioGuiado.dll
+/var/www/html/PildorasInformaticasTutorial/ejercicioGuiado/bin/Debug/net5.0/ejercicioGuiado.pdb
+/var/www/html/PildorasInformaticasTutorial/ejercicioGuiado/obj/Debug/net5.0/ejercicioGuiado.dll
+/var/www/html/PildorasInformaticasTutorial/ejercicioGuiado/obj/Debug/net5.0/ref/ejercicioGuiado.dll
+/var/www/html/PildorasInformaticasTutorial/ejercicioGuiado/obj/Debug/net5.0/ejercicioGuiado.pdb
+/var/www/html/PildorasInformaticasTutorial/ejercicioGuiado/obj/Debug/net5.0/ejercicioGuiado.genruntimeconfig.cache

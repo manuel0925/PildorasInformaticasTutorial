@@ -28,6 +28,10 @@ namespace herencia2
         }
     }
 
+    interface IMamifereosTerrestres {
+        int numeroPatas();
+    }
+
     class Mamiferos
     {
         private string nombreServivo;
@@ -57,7 +61,19 @@ namespace herencia2
 
     }
 
-    class Caballo : Mamiferos
+    public class Ballena : Mamiferos
+    {
+        public Ballena(string NombreBallena) : base(NombreBallena)
+        {
+
+        }
+        public void nadar(){
+            Console.WriteLine("ballena que nade");
+            
+        }
+    }
+
+    class Caballo : Mamiferos, IMamifereosTerrestres
     {   
         public Caballo(string nombreCaballo): base(nombreCaballo)
         {

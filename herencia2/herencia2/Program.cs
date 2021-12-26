@@ -6,21 +6,38 @@ namespace herencia2
     {
         static void Main(string[] args)
         {
-            Caballo Babieca = new Caballo("babieca");
-            Humanos Manuel = new Humanos("eliza");
-            Gorilla Copito = new Gorilla("copito");
+            /* Caballo Babieca = new Caballo("babieca");
+             Humanos Manuel = new Humanos("eliza");
+             Gorilla Copito = new Gorilla("copito");
 
-            Mamiferos[] almacenAnimales = new Mamiferos[3];
+             Mamiferos[] almacenAnimales = new Mamiferos[3];
 
-            almacenAnimales[0] = Babieca;
-            almacenAnimales[1] = Manuel;
-            almacenAnimales[2] = Copito;
+             almacenAnimales[0] = Babieca;
+             almacenAnimales[1] = Manuel;
+             almacenAnimales[2] = Copito;
 
-            for(int i = 0; i < 3; i++)
-            {
-                almacenAnimales[i].pensar();
-            }
-           // Manuel.getNombre();
+             for(int i = 0; i < 3; i++)
+             {
+                 almacenAnimales[i].pensar();
+             }
+
+             IMamifereosTerrestres ImiBabieca = Babieca;
+             // Manuel.getNombre();
+
+             Console.WriteLine(ImiBabieca.numeroPatas());*/
+
+
+            lagartija juancho = new ("juancho");
+
+            juancho.respirar();
+
+            juancho.getNombre();
+
+
+            Humanos manuel = new("manuel");
+
+            manuel.respirar();
+            manuel.getNombre();
 
 
 
@@ -32,7 +49,29 @@ namespace herencia2
         int numeroPatas();
     }
 
-    class Mamiferos
+    interface IAnimlaesYDeportes
+    {
+        String tipoDeporte();
+        Boolean esOlimpico();
+    }
+
+    interface ISaltoConPatas
+    {
+       int numeroPatas();
+    }
+
+    abstract class Animales {
+
+        public void respirar() {
+            Console.WriteLine("soy capz de repisrar");
+        }
+
+        public abstract void getNombre();
+        
+
+    }
+
+    class Mamiferos : Animales
     {
         private string nombreServivo;
         public Mamiferos(string nombre) 
@@ -40,18 +79,14 @@ namespace herencia2
             nombreServivo = nombre;
         }
 
-        public void respirar()
-        {
-            Console.WriteLine("soy capz de repisrar");
-        }
-
         public void CuidarCrias()
         {
             Console.WriteLine("Cuido de mis crias hasta que se valgan pos is solas");
         }
 
-        public void getNombre() { 
-            Console.WriteLine(nombreServivo);
+        public override void getNombre() { 
+            
+            Console.WriteLine($"el nombre del mamifero es {nombreServivo}");
         }
 
         public virtual void pensar()
@@ -61,7 +96,23 @@ namespace herencia2
 
     }
 
-    public class Ballena : Mamiferos
+    class lagartija : Animales
+    {
+
+        public lagartija(string nombre)
+        {
+            nombrerEPTIL = nombre;
+        }
+
+        public override void getNombre()
+        {
+            Console.WriteLine($"el nombre del rEPTIL es {nombrerEPTIL}");
+        }
+        private string nombrerEPTIL;
+   
+    }
+
+    class Ballena : Mamiferos
     {
         public Ballena(string NombreBallena) : base(NombreBallena)
         {
@@ -71,19 +122,42 @@ namespace herencia2
             Console.WriteLine("ballena que nade");
             
         }
+
+        public int numeroPatas()
+        {
+            return 1;
+        }
     }
 
-    class Caballo : Mamiferos, IMamifereosTerrestres
+    class Caballo : Mamiferos, IMamifereosTerrestres, IAnimlaesYDeportes, ISaltoConPatas
     {   
         public Caballo(string nombreCaballo): base(nombreCaballo)
         {
-
+             
         }
         public void galopar()
         {
             Console.WriteLine("soy capaz de galopar");
         }
-       
+
+        int IMamifereosTerrestres.numeroPatas() {
+            return 4;
+        }
+
+        public string tipoDeporte() {
+            return "es un caballo de carreras hipica";
+        }
+
+        public Boolean esOlimpico() { 
+            return true;
+        }
+
+        int ISaltoConPatas.numeroPatas()
+        {
+            return 2;
+        }
+
+
     }
 
     class Humanos : Mamiferos
